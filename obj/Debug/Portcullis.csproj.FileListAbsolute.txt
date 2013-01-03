@@ -1,0 +1,4 @@
+C:\Users\Will.McIlmoyle.CPL\Documents\GitHub\Portcullis\bin\Portcullis.dll
+C:\Users\Will.McIlmoyle.CPL\Documents\GitHub\Portcullis\bin\Portcullis.pdb
+C:\Users\Will.McIlmoyle.CPL\Documents\GitHub\Portcullis\obj\Debug\Portcullis.dll
+C:\Users\Will.McIlmoyle.CPL\Documents\GitHub\Portcullis\obj\Debug\Portcullis.pdb
